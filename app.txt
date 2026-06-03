@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Feature A
+=======
+Feature B
+>>>>>>> ea15e66 (Added Feature B)
